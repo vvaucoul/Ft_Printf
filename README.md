@@ -23,7 +23,7 @@ Rewrite of the **printf** function.<br>
 
 - Clone Repository
 ```bash
-git clone https://vvaucoul/Ft_Printf && cd Ft_Printf
+git clone https://github.com/vvaucoul/Ft_Printf && cd Ft_Printf
 ```
 
 - Compilation
